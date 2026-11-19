@@ -55,7 +55,7 @@ h3{font-size:18px;margin:0 0 6px}
 .doc h2{font-size:21px;margin:40px 0 8px;padding-top:24px;border-top:1px solid var(--line)}
 .doc .card{margin:28px 0}
 .doc .card h2{margin-top:0;padding-top:0;border-top:0}
-.doc .card ul{margin:0;padding-left:20px}
+.doc .card ul,.doc .card ol{margin:0;padding-left:22px}
 .doc li{margin:4px 0}
 
 /* footer */
